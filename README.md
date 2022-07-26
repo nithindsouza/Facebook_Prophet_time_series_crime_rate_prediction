@@ -1,27 +1,28 @@
 # Facebook_Prophet_time_series_crime_rate_prediction
 
-Introduction
-Predicting the crime rate for the future 1 year and 2 year using loaded Chicago Data
-DataSet link: Kaggle(https://www.kaggle.com/datasets/chicago/chicago-crime)
+Introduction <br/>
+Predicting the crime rate for the future 1 year and 2 year using loaded Chicago Data <br/>
+DataSet link: [Kaggle](https://www.kaggle.com/datasets/chicago/chicago-crim)
+
 Pipeline
-> Load the data
-> concat the different data
-> visualize concat data
-> vis. null elements using heatmap
-> Dropping unwanted information
-> Changing Date Time format
-> Assigning Date as index 
-> visualize the Crime rate against Type of Crime
-> visualize the Crime rate against Crime Location
-> vis. Crime rate occured per year
-> vis. Crime rate occured per month
-> vis. Crime rate occured per quarter
-> Prepare the data so that facebook prohet can be applied
-> Rename the data columns to ds and y
-> apply fit method
-> predict for a year
-> vis. future 
-> vis. trend and seasonality for the year
-> predict for 2 year
-> vis. future 
-> vis. trend and seasonality for 2 years
+* Load the data <br/>
+* concat the different data <br/>
+* visualize concat data <br/>
+* vis. null elements using heatmap <br/>
+* Dropping unwanted information <br/>
+* Changing Date Time format <br/>
+* Assigning Date as index <br/>
+* visualize the Crime rate against Type of Crime <br/>
+* visualize the Crime rate against Crime Location <br/>
+* vis. Crime rate occured per year <br/>
+* vis. Crime rate occured per month <br/>
+* vis. Crime rate occured per quarter <br/>
+* Prepare the data so that facebook prohet can be applied <br/>
+* Rename the data columns to ds and y <br/>
+* apply fit method <br/>
+* predict for a year <br/>
+* vis. future  <br/>
+* vis. trend and seasonality for the year <br/>
+* predict for 2 year <br/> 
+* vis. future <br/>
+* vis. trend and seasonality for 2 years <br/>
