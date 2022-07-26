@@ -2,7 +2,7 @@
 
 Introduction <br/>
 Predicting the crime rate for the future 1 year and 2 year using loaded Chicago Data <br/>
-DataSet link: [Kaggle](https://www.kaggle.com/datasets/chicago/chicago-crim)
+DataSet link: [Kaggle Download](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
 
 Pipeline
 * Load the data <br/>
